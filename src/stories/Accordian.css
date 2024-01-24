@@ -1,0 +1,13 @@
+.storybook-accordian--root {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.storybook-accordian--small {
+  width: 60%;
+}
+.storybook-accordian--medium {
+  width: 80%;
+}
+.storybook-accordian--large {
+  width: 100%;
+}

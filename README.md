@@ -2,5 +2,9 @@
 - Run command **npm install** to install modules
 - Run command **npm start** to run project
 - Run command **npm run storybook** to run story book
-
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://drive.google.com/file/d/1LgiOIKQa-StO36iPGmBmesmTmm5NK8rJ/view?usp=drive_link)https://drive.google.com/file/d/1LgiOIKQa-StO36iPGmBmesmTmm5NK8rJ/view?usp=drive_link)
+- 
+<h2>Display<h2>
+  <img src="https://github.com/hassanimtiaz194/storybook-task/blob/main/1.png" alt="Expense Tracker Display" width="1000" height="600">
+  <img src="https://github.com/hassanimtiaz194/storybook-task/blob/main/2.png" alt="Expense Tracker Display" width="1000" height="600">
+  <img src="https://github.com/hassanimtiaz194/storybook-task/blob/main/3.png" alt="Expense Tracker Display" width="1000" height="600">
+  <img src="https://github.com/hassanimtiaz194/storybook-task/blob/main/4.png" alt="Expense Tracker Display" width="1000" height="600">
